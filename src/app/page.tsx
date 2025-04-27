@@ -1,7 +1,7 @@
 export default function Home() {
     return (
         <>
-            <div className="[font-weight:453] text-4xl">Upd</div>
+            <div className="[font-weight:453] text-4xl">Update</div>
         </>
     );
 }
